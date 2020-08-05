@@ -9,8 +9,8 @@
 #' @examples
 #' use_two_inputs(1, 1)
 #' use_two_inputs(10, 1)
-use_two_inputs <- function(a, b){
+use_two_inputs <- function(x, y){
   
-  a + b
+  x + y
   
 }
